@@ -1,0 +1,11 @@
+# Configuration Settings
+
+# API Keys
+API_KEY = 'your_api_key_here'
+
+# Database Configuration
+DB_HOST = 'localhost'
+DB_PORT = 5432
+DB_USER = 'user'
+DB_PASSWORD = 'password'
+DB_NAME = 'database_name'
